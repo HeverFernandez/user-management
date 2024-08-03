@@ -1,0 +1,2 @@
+INSERT INTO usuario(id, nombre, apellido, edad, username, correo, celular) VALUES (1, 'John', 'Doe', 30, 'johndoe', 'johndoe@example.com', '1234567890');
+INSERT INTO usuario(id, nombre, apellido, edad, username, correo, celular) VALUES (2, 'Jane', 'Smith', 25, 'janesmith', 'janesmith@example.com', '0987654321');
